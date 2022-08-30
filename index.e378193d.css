@@ -1,0 +1,236 @@
+html, body {
+  font-family: Roboto;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+body {
+  background: #c4c4c4;
+  padding: 50px;
+}
+
+.container {
+  max-width: -moz-fit-content;
+  max-width: fit-content;
+  margin: 0 auto;
+}
+
+.row_2 {
+  margin-top: 50px;
+}
+
+.empty_space {
+  width: 1000px;
+  height: 200px;
+  background: #e6e6e6;
+  flex-direction: row-reverse;
+}
+
+.element-1 {
+  float: left;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  color: #fff;
+  background: #fc8f8f;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 75px;
+  display: flex;
+}
+
+.element-2 {
+  width: 600px;
+  height: 200px;
+  float: none;
+  vertical-align: bottom;
+  text-align: center;
+  color: #fff;
+  background: #e6e6e6;
+  font-family: Roboto;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 75px;
+  display: inline-block;
+}
+
+.element-3 {
+  float: right;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  color: #fff;
+  background: #fc8f8f;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 75px;
+  display: flex;
+}
+
+.element-4 {
+  float: left;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  color: #fff;
+  background: #fc8f8f;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 75px;
+  display: flex;
+}
+
+.element-5 {
+  width: 100px;
+  height: 100px;
+  float: right;
+  text-align: center;
+  color: #fff;
+  background: #fc8f8f;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 42px;
+  display: flex;
+}
+
+.element-6, .element-7, .element-8 {
+  float: right;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  color: #fff;
+  background: #fc8f8f;
+  justify-content: center;
+  align-items: center;
+  margin-right: 15px;
+  font-family: Roboto;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 42px;
+  display: flex;
+}
+
+.row_3 {
+  margin-top: 50px;
+}
+
+.background {
+  background: #e6e6e6;
+  display: flex;
+}
+
+.element-9 {
+  float: left;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  color: #fff;
+  background: #fc8f8f;
+  justify-content: center;
+  align-items: center;
+  margin-right: 15px;
+  font-family: Roboto;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 75px;
+  display: flex;
+}
+
+.element-10 {
+  float: left;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  color: #fff;
+  background: #fc8f8f;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 75px;
+  display: flex;
+}
+
+.element-11 {
+  float: left;
+  width: 170px;
+  height: 200px;
+  vertical-align: bottom;
+  text-align: center;
+  color: #fff;
+  background: #e6e6e6;
+  font-family: Roboto;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 75px;
+  display: inline-flex;
+}
+
+.element-12 {
+  float: left;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  color: #fff;
+  background: #fc8f8f;
+  justify-content: center;
+  align-items: center;
+  margin-right: 15px;
+  font-family: Roboto;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 75px;
+  display: flex;
+}
+
+.element-13 {
+  float: right;
+  width: 200px;
+  height: 200px;
+  color: #fff;
+  background: #fc8f8f;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 75px;
+  display: flex;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: -moz-fit-content;
+  max-width: fit-content;
+  margin: 0 auto;
+}
+
+/*# sourceMappingURL=index.e378193d.css.map */
